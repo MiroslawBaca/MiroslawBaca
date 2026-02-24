@@ -12,4 +12,4 @@ I’m currently working on:
 - **Adobe Creative Cloud Tools** (Photoshop, Illustrator, Premiere Pro, InDesign)
 
 My lighting engineering work:
-miroslawbaca.pl
+**miroslawbaca.pl**
